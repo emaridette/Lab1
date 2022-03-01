@@ -1,0 +1,30 @@
+html {
+    background-color: rgb(255, 226, 248);
+    font-family: 'Cinzel', serif;
+}
+body {
+    background-color: rgb(255, 240, 255);
+    width: 600px;
+    height: auto;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    border: dashed 1px rgb(122, 61, 71);
+}
+p, li {
+    font-size: 15px;
+    line-height: 3;
+}
+h1 {
+    font-size: 30px;
+    text-align: center;
+}
+img {
+    width: 300px;
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+    padding: 0 10px 10px 10px;
+}
+.bold {
+    font-weight: bold;
+}
