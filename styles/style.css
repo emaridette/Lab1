@@ -28,3 +28,7 @@ img {
 .bold {
     font-weight: bold;
 }
+div.box {
+    border: ridge 2px rgb(143, 72, 85);
+    padding: 15px;
+}

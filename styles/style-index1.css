@@ -1,3 +1,6 @@
+body {
+    border: dashed 2px rgb(122, 61, 71);
+}
 h2 {
     font: 15px;
     text-align: center;
