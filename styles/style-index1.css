@@ -20,6 +20,6 @@ img {
     font-style: italic;
 }
 div.box {
-    border: dashed 2px rgb(143, 72, 85);
+    border: solid 2px rgb(143, 72, 85);
     padding: 15px;
 }
